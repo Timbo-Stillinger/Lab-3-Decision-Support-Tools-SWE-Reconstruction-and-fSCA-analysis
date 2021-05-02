@@ -1,0 +1,14 @@
+name: Lab3-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - copy
+  - rasterio
+  - datetime
+  - shapely
+  - contextily
